@@ -1,0 +1,16 @@
+{
+    "name": "converthtmltotext",
+    "version": "1.15.7",
+    "description": "Convert HTML to plaintext",
+    "main": "src/converthtmltotext.js",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com-kixgraft:kixgraft/converthtmltotext.git"
+    },
+    "keywords": [],
+    "author": "Kix Graft",
+    "license": "BSD"
+}
