@@ -1,12 +1,17 @@
 {
   "name": "converthtmltotext",
-  "version": "1.15.9",
-  "description": "",
-  "main": "index.js",
+  "version": "1.15.10",
+  "description": "Convert HTML strings to plaintext",
+  "author": "Kix Graft",
+  "main": "src/converthtmltotext.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodeunit test"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodeunit": "^0.11.3",
+    "eslint": "^5.10.0"
+  }
 }
