@@ -8,7 +8,6 @@
     "test": "nodeunit test"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodeunit": "^0.11.3",
